@@ -1,0 +1,39 @@
+body{
+background-color: lightblue;
+}
+
+h1{
+    text-align: center;
+    color: rgb(7, 134, 212);
+    font-size: 35px;
+
+}
+
+h2{
+    color: rgb(83, 90, 97);
+    font-size: 20px;
+}
+
+.container{
+    margin-top: 80px;
+    margin-left: 220px;
+}
+
+#fini{
+    
+    text-align: right;
+    margin-right: 450px;
+    margin-top: -70px;
+}
+
+.sauvegarde{
+    background-color: bisque;
+    border-radius: 10px;
+    width: 60px;
+    height: 25px;
+    margin-left: 900px;
+}
+
+i{
+    margin-left: 15px;
+}
